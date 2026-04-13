@@ -60,3 +60,11 @@
  .card {
   border-radius: 0;
  }
+
+ .btn-lg-submit-color{
+  background-color: #17a2b8;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+ }  
